@@ -1,0 +1,1349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\fabia\GitHub\WLED_ESP8266_molex_microfit\WLED_ESP8266_molex_microfit\WLED_ESP8266_molex_microfit.kicad_sch</source>
+    <date>03/02/2022 20:25:13</date>
+    <tool>Eeschema (6.0.1)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>WLED ESP8266 molex microfit</title>
+        <company/>
+        <rev>1</rev>
+        <date/>
+        <source>WLED_ESP8266_molex_microfit.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC">C13585</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C13585"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WLED_ESP8266_molex_microfit.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0555625a-1053-42e5-959b-388ed25c2c5f</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC">C13585</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C13585"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WLED_ESP8266_molex_microfit.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>15c9cc31-1153-46a8-ac84-a0d12a91a016</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>22uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WLED_ESP8266_molex_microfit.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>aeba66c4-754c-4659-a4ca-a5ad34d2215c</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC">C1525</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C1525"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WLED_ESP8266_molex_microfit.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a57c0fac-cbe3-4c53-91b2-7b0dd30a830f</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC">C14663</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C14663"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WLED_ESP8266_molex_microfit.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ad37ff6b-135a-46b4-b941-14d6ca708b96</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC">C14663</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C14663"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WLED_ESP8266_molex_microfit.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>18e2c6bb-41d6-40c3-ad9c-0df0e71c59f4</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC">C14663</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C14663"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WLED_ESP8266_molex_microfit.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>563d98d7-1987-4467-a8b2-5c0e49edd9d3</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC">C14663</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C14663"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WLED_ESP8266_molex_microfit.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1368d8e3-7e8a-4f03-a649-34cf64141e83</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC">C14663</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C14663"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WLED_ESP8266_molex_microfit.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>083dabdf-8701-4a30-a83a-94fcabffa5f6</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC">C14663</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C14663"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WLED_ESP8266_molex_microfit.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2bdda5ca-ffaa-4aa9-9e85-d93655882b00</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>10pF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="LCSC">C1785</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C1785"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WLED_ESP8266_molex_microfit.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fb45734e-e4a5-46fa-a9bf-4fc88ad59b0e</tstamps>
+    </comp>
+    <comp ref="C12">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC">C1525</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C1525"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WLED_ESP8266_molex_microfit.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>21286972-24c1-4eb8-8215-1c416174af79</tstamps>
+    </comp>
+    <comp ref="C13">
+      <value>47uF</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC">C96123</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C96123"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WLED_ESP8266_molex_microfit.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2ae21a60-1c31-484e-bd22-01a681c70773</tstamps>
+    </comp>
+    <comp ref="C14">
+      <value>47uF</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC">C96123</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C96123"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WLED_ESP8266_molex_microfit.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1ba6e5fc-3ac9-4cd9-aa52-ce086c4d694d</tstamps>
+    </comp>
+    <comp ref="C15">
+      <value>0.01uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="LCSC">C1710</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C1710"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WLED_ESP8266_molex_microfit.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d06d05ed-a9a2-412c-8228-fc02f3b89a6e</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>B340</value>
+      <footprint>Diode_SMD:D_SMC</footprint>
+      <datasheet>http://www.jameco.com/Jameco/Products/ProdDS/1538777.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C64982</field>
+      </fields>
+      <libsource lib="Diode" part="B340" description="40V 3A Schottky Barrier Rectifier Diode, SMC"/>
+      <property name="LCSC" value="C64982"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WLED_ESP8266_molex_microfit.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3c08ff3a-424b-4097-ad5d-415d0c6f72a4</tstamps>
+    </comp>
+    <comp ref="F1">
+      <value>5A</value>
+      <footprint>Fuse:Fuse_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <libsource lib="Device" part="Fuse" description="Fuse"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WLED_ESP8266_molex_microfit.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>016b5fc2-4a69-4262-8bbf-b566c5bc433d</tstamps>
+    </comp>
+    <comp ref="H1">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3_DIN965</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WLED_ESP8266_molex_microfit.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b4ea27bd-cbc4-490c-8164-d34f0df4e897</tstamps>
+    </comp>
+    <comp ref="H2">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3_DIN965</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WLED_ESP8266_molex_microfit.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3e7ec037-c005-4d44-9886-e8b05e7dcd29</tstamps>
+    </comp>
+    <comp ref="H3">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3_DIN965</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WLED_ESP8266_molex_microfit.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d530bfba-b1cd-4d34-8b4c-26f79ce2cfd5</tstamps>
+    </comp>
+    <comp ref="H4">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3_DIN965</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WLED_ESP8266_molex_microfit.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d25e0247-b950-445a-a609-c0a5880dd418</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>Molex Micro-fit 2x1</value>
+      <footprint>Connector_Molex:Molex_Micro-Fit_3.0_43650-0200_1x02_P3.00mm_Horizontal</footprint>
+      <libsource lib="Connector" part="Conn_01x02_Female" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WLED_ESP8266_molex_microfit.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d094f9d8-72d1-4423-927b-7848d519b3cf</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>Molex Micro-fit 3x1</value>
+      <footprint>Connector_Molex:Molex_Micro-Fit_3.0_43650-0300_1x03_P3.00mm_Horizontal</footprint>
+      <libsource lib="Connector" part="Conn_01x03_Female" description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WLED_ESP8266_molex_microfit.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6c5ee366-ee79-4c30-8e78-943c29565f3c</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>Molex Micro-fit 2x1</value>
+      <footprint>Connector_Molex:Molex_Micro-Fit_3.0_43650-0200_1x02_P3.00mm_Horizontal</footprint>
+      <libsource lib="Connector" part="Conn_01x02_Female" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WLED_ESP8266_molex_microfit.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>504d80ad-0df7-4eff-b986-1fc6d4716f13</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>Molex Micro-fit 2x1</value>
+      <footprint>Connector_Molex:Molex_Micro-Fit_3.0_43650-0200_1x02_P3.00mm_Horizontal</footprint>
+      <libsource lib="Connector" part="Conn_01x02_Female" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WLED_ESP8266_molex_microfit.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4c1dcf7d-728b-4893-97c6-34d3a5b7ad48</tstamps>
+    </comp>
+    <comp ref="J5">
+      <value>USB_B_Micro</value>
+      <footprint>Connector_USB:USB_Micro-B_Molex_47346-0001</footprint>
+      <libsource lib="Connector" part="USB_B_Micro" description="USB Micro Type B connector"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WLED_ESP8266_molex_microfit.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cb6d8dc4-609a-40bc-b9d0-1cb05cc6032c</tstamps>
+    </comp>
+    <comp ref="J6">
+      <value>Molex Micro-fit 2x1</value>
+      <footprint>Connector_Molex:Molex_Micro-Fit_3.0_43650-0200_1x02_P3.00mm_Horizontal</footprint>
+      <libsource lib="Connector" part="Conn_01x02_Female" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WLED_ESP8266_molex_microfit.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1e22468f-3093-4a14-a00c-6f33097b59bc</tstamps>
+    </comp>
+    <comp ref="J7">
+      <value>Molex Micro-fit 3x1</value>
+      <footprint>Connector_Molex:Molex_Micro-Fit_3.0_43650-0300_1x03_P3.00mm_Horizontal</footprint>
+      <libsource lib="Connector" part="Conn_01x03_Female" description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WLED_ESP8266_molex_microfit.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>58b02e37-4190-4f07-83a1-91f20b27c436</tstamps>
+    </comp>
+    <comp ref="J8">
+      <value>Molex Micro-fit 3x1</value>
+      <footprint>Connector_Molex:Molex_Micro-Fit_3.0_43650-0300_1x03_P3.00mm_Horizontal</footprint>
+      <libsource lib="Connector" part="Conn_01x03_Female" description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WLED_ESP8266_molex_microfit.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>78c3ea78-b875-47e1-9c41-fbaf7740e28b</tstamps>
+    </comp>
+    <comp ref="J9">
+      <value>Conn_01x04_Male</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x04_Male" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WLED_ESP8266_molex_microfit.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f901e912-c299-49a9-b1d9-f9b63f35df46</tstamps>
+    </comp>
+    <comp ref="JP1">
+      <value>SolderJumper_2_Open</value>
+      <footprint>Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm</footprint>
+      <libsource lib="Jumper" part="SolderJumper_2_Open" description="Solder Jumper, 2-pole, open"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WLED_ESP8266_molex_microfit.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f14a0100-bc3e-4b3a-b1ca-db976ded308e</tstamps>
+    </comp>
+    <comp ref="JP2">
+      <value>SolderJumper_3_Open</value>
+      <footprint>Jumper:SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm_NumberLabels</footprint>
+      <libsource lib="Jumper" part="SolderJumper_3_Open" description="Solder Jumper, 3-pole, open"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WLED_ESP8266_molex_microfit.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a8adcce8-0930-4a37-b6fd-c0b647f59ae3</tstamps>
+    </comp>
+    <comp ref="JP3">
+      <value>SolderJumper_2_Open</value>
+      <footprint>Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm</footprint>
+      <libsource lib="Jumper" part="SolderJumper_2_Open" description="Solder Jumper, 2-pole, open"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WLED_ESP8266_molex_microfit.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>023816b0-094c-40c1-a151-617d1171893b</tstamps>
+    </comp>
+    <comp ref="JP4">
+      <value>SolderJumper_3_Open</value>
+      <footprint>Jumper:SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm_NumberLabels</footprint>
+      <libsource lib="Jumper" part="SolderJumper_3_Open" description="Solder Jumper, 3-pole, open"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WLED_ESP8266_molex_microfit.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>28823a55-6518-40eb-8517-6386032633ad</tstamps>
+    </comp>
+    <comp ref="JP5">
+      <value>SolderJumper_3_Open</value>
+      <footprint>Jumper:SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm_NumberLabels</footprint>
+      <libsource lib="Jumper" part="SolderJumper_3_Open" description="Solder Jumper, 3-pole, open"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WLED_ESP8266_molex_microfit.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1cb7b9bb-080e-4fd4-bfec-1f47b7616bfa</tstamps>
+    </comp>
+    <comp ref="L1">
+      <value>6.8uH</value>
+      <footprint>Inductor_SMD:L_10.4x10.4_H4.8</footprint>
+      <fields>
+        <field name="LCSC">C408449</field>
+      </fields>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <property name="LCSC" value="C408449"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WLED_ESP8266_molex_microfit.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0d31b5df-296c-44c7-a552-9f929add5dee</tstamps>
+    </comp>
+    <comp ref="Q1">
+      <value>AO3401A</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>http://www.aosmd.com/pdfs/datasheet/AO3401A.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C15127</field>
+      </fields>
+      <libsource lib="Transistor_FET" part="AO3401A" description="-4.0A Id, -30V Vds, P-Channel MOSFET, SOT-23"/>
+      <property name="LCSC" value="C15127"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WLED_ESP8266_molex_microfit.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>09980fd7-b805-4e5f-9f16-2abdcd976cd1</tstamps>
+    </comp>
+    <comp ref="Q2">
+      <value>AO3401A</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>http://www.aosmd.com/pdfs/datasheet/AO3401A.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C15127</field>
+      </fields>
+      <libsource lib="Transistor_FET" part="AO3401A" description="-4.0A Id, -30V Vds, P-Channel MOSFET, SOT-23"/>
+      <property name="LCSC" value="C15127"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WLED_ESP8266_molex_microfit.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a53c3157-fda0-4cb1-b0d0-0bfa8ce5dbb2</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WLED_ESP8266_molex_microfit.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d73f5447-4ae0-4c4a-a809-adb19f1201cd</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>68k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC">C17801</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C17801"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WLED_ESP8266_molex_microfit.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9736f88a-f61b-412c-91c8-9d84934592a6</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>0</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC">C21189</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C21189"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WLED_ESP8266_molex_microfit.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8c479fc9-85d1-45fe-bd94-458cb369e667</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>61.9k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC">C23221</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C23221"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WLED_ESP8266_molex_microfit.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2fb56908-386b-4957-a68b-71053eb8a319</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>10.2k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC">C25804</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C25804"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WLED_ESP8266_molex_microfit.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1eacb5d9-e415-4f2a-9edc-5012ff3a011c</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>1.96k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC">C22975</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C22975"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WLED_ESP8266_molex_microfit.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>beb38876-126f-4fb6-9093-d2accceb9857</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>300</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC">C23025</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C23025"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WLED_ESP8266_molex_microfit.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d25a3270-010c-46c6-957f-123f9bf187b7</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>300</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC">C23025</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C23025"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WLED_ESP8266_molex_microfit.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>41178f10-9942-424b-8ecb-9661f254316d</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>300</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC">C23025</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C23025"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WLED_ESP8266_molex_microfit.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>984f9213-4deb-4eff-b095-cde2ceafdd01</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WLED_ESP8266_molex_microfit.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e21af3ac-6a90-40ab-8522-34cb00684b27</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>4.7k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC">C23162</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C23162"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WLED_ESP8266_molex_microfit.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5aef3f3d-e3a1-42e7-aab5-b97ecd4f9ebd</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WLED_ESP8266_molex_microfit.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0526c0f0-b604-4a5d-b668-a554f7870c57</tstamps>
+    </comp>
+    <comp ref="R13">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WLED_ESP8266_molex_microfit.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f9fe30f9-fa00-46d5-a4e6-77d63a55d4b6</tstamps>
+    </comp>
+    <comp ref="R14">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WLED_ESP8266_molex_microfit.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c462ec9b-ec5e-4e59-b306-0da8d6f70500</tstamps>
+    </comp>
+    <comp ref="R15">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WLED_ESP8266_molex_microfit.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8bdcca36-89f8-4cc2-867e-e40b791a0029</tstamps>
+    </comp>
+    <comp ref="R16">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WLED_ESP8266_molex_microfit.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d7a72f02-1984-4a3c-9afb-0ee7d0f20433</tstamps>
+    </comp>
+    <comp ref="R17">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WLED_ESP8266_molex_microfit.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>59799987-08dc-4288-9480-cfc9b65b7e76</tstamps>
+    </comp>
+    <comp ref="R18">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC">C25804</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C25804"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WLED_ESP8266_molex_microfit.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f4a3769e-c888-4155-84d6-34953043327d</tstamps>
+    </comp>
+    <comp ref="R19">
+      <value>1M</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WLED_ESP8266_molex_microfit.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>be1aa7ed-93c7-4da1-a65d-02d064f41f29</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>ESP-12F</value>
+      <footprint>RF_Module:ESP-12E</footprint>
+      <datasheet>http://wiki.ai-thinker.com/_media/esp8266/esp8266_series_modules_user_manual_v1.1.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C82891</field>
+      </fields>
+      <libsource lib="RF_Module" part="ESP-12F" description="802.11 b/g/n Wi-Fi Module"/>
+      <property name="LCSC" value="C82891"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WLED_ESP8266_molex_microfit.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6f61acf9-283e-43c1-b11a-174e497e5b25</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>TPS54331DDAR</value>
+      <footprint>CONV_TPS54331DDAR</footprint>
+      <fields>
+        <field name="LCSC">C9865</field>
+        <field name="MANUFACTURER">Texas Instruments</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">1.70 mm</field>
+        <field name="PARTREV">F</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+      </fields>
+      <libsource lib="TPS54331DDAR" part="TPS54331DDAR" description=""/>
+      <property name="STANDARD" value="Manufacturer Recommendations"/>
+      <property name="PARTREV" value="F"/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="1.70 mm"/>
+      <property name="MANUFACTURER" value="Texas Instruments"/>
+      <property name="LCSC" value="C9865"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WLED_ESP8266_molex_microfit.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>211f9861-0551-4c01-a46d-b1a0dc8fd239</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>TXS0102DCT</value>
+      <footprint>Package_SO:SSOP-8_2.95x2.8mm_P0.65mm</footprint>
+      <datasheet>http://www.ti.com/lit/gpn/txs0102</datasheet>
+      <libsource lib="Logic_LevelTranslator" part="TXS0102DCT" description="2-Bit Bidirectional Voltage-Level Shifter for Open-Drain and Push-Pull Application, SSOP-8"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WLED_ESP8266_molex_microfit.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bf7d2f39-4cf0-40bc-a4a2-154a67db5762</tstamps>
+    </comp>
+    <comp ref="U4">
+      <value>TXS0102DCT</value>
+      <footprint>Package_SO:SSOP-8_2.95x2.8mm_P0.65mm</footprint>
+      <datasheet>http://www.ti.com/lit/gpn/txs0102</datasheet>
+      <libsource lib="Logic_LevelTranslator" part="TXS0102DCT" description="2-Bit Bidirectional Voltage-Level Shifter for Open-Drain and Push-Pull Application, SSOP-8"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WLED_ESP8266_molex_microfit.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>27101d2b-1f80-4d40-be5b-78bdcb31c291</tstamps>
+    </comp>
+    <comp ref="U6">
+      <value>ME6211A33M3G-N</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>http://www.advanced-monolithic.com/pdf/ds1117.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C168807</field>
+      </fields>
+      <libsource lib="Regulator_Linear" part="AMS1117CD-3.3" description="1A Low Dropout regulator, positive, 3.3V fixed output, TO-252"/>
+      <property name="LCSC" value="C168807"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="WLED_ESP8266_molex_microfit.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>63e1b2a7-d93f-4c10-9bb2-94d311ed58be</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector" part="Conn_01x02_Female">
+      <description>Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x02_Female</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_01x03_Female">
+      <description>Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x03_Female</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_01x04_Male">
+      <description>Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x04_Male</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="USB_B_Micro">
+      <description>USB Micro Type B connector</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>USB*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">USB_B_Micro</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VBUS" type="power_out"/>
+        <pin num="2" name="D-" type="bidirectional"/>
+        <pin num="3" name="D+" type="bidirectional"/>
+        <pin num="4" name="ID" type="passive"/>
+        <pin num="5" name="GND" type="power_out"/>
+        <pin num="6" name="Shield" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Fuse">
+      <description>Fuse</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>*Fuse*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">F</field>
+        <field name="Value">Fuse</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="L">
+      <description>Inductor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Choke_*</fp>
+        <fp>*Coil*</fp>
+        <fp>Inductor_*</fp>
+        <fp>L_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">L</field>
+        <field name="Value">L</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Diode" part="B340">
+      <description>40V 3A Schottky Barrier Rectifier Diode, SMC</description>
+      <docs>http://www.jameco.com/Jameco/Products/ProdDS/1538777.pdf</docs>
+      <footprints>
+        <fp>D*SMC*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">B340</field>
+        <field name="Footprint">Diode_SMD:D_SMC</field>
+        <field name="Datasheet">http://www.jameco.com/Jameco/Products/ProdDS/1538777.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Jumper" part="SolderJumper_2_Open">
+      <description>Solder Jumper, 2-pole, open</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>SolderJumper*Open*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">JP</field>
+        <field name="Value">SolderJumper_2_Open</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="B" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Jumper" part="SolderJumper_3_Open">
+      <description>Solder Jumper, 3-pole, open</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>SolderJumper*Open*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">JP</field>
+        <field name="Value">SolderJumper_3_Open</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="C" type="input"/>
+        <pin num="3" name="B" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Logic_LevelTranslator" part="TXS0102DCT">
+      <description>2-Bit Bidirectional Voltage-Level Shifter for Open-Drain and Push-Pull Application, SSOP-8</description>
+      <docs>http://www.ti.com/lit/gpn/txs0102</docs>
+      <footprints>
+        <fp>SSOP*2.95x2.8mm*P0.65mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">TXS0102DCT</field>
+        <field name="Footprint">Package_SO:SSOP-8_2.95x2.8mm_P0.65mm</field>
+        <field name="Datasheet">http://www.ti.com/lit/gpn/txs0102</field>
+      </fields>
+      <pins>
+        <pin num="1" name="B2" type="bidirectional"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="VCCA" type="power_in"/>
+        <pin num="4" name="A2" type="bidirectional"/>
+        <pin num="5" name="A1" type="bidirectional"/>
+        <pin num="6" name="OE" type="input"/>
+        <pin num="7" name="VCCB" type="power_in"/>
+        <pin num="8" name="B1" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="Mechanical" part="MountingHole">
+      <description>Mounting Hole without connection</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>MountingHole*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MountingHole</field>
+        <field name="Datasheet">~</field>
+      </fields>
+    </libpart>
+    <libpart lib="RF_Module" part="ESP-12F">
+      <description>802.11 b/g/n Wi-Fi Module</description>
+      <docs>http://wiki.ai-thinker.com/_media/esp8266/esp8266_series_modules_user_manual_v1.1.pdf</docs>
+      <footprints>
+        <fp>ESP?12*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">ESP-12F</field>
+        <field name="Footprint">RF_Module:ESP-12E</field>
+        <field name="Datasheet">http://wiki.ai-thinker.com/_media/esp8266/esp8266_series_modules_user_manual_v1.1.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~{RST}" type="input"/>
+        <pin num="2" name="ADC" type="input"/>
+        <pin num="3" name="EN" type="input"/>
+        <pin num="4" name="GPIO16" type="bidirectional"/>
+        <pin num="5" name="GPIO14" type="bidirectional"/>
+        <pin num="6" name="GPIO12" type="bidirectional"/>
+        <pin num="7" name="GPIO13" type="bidirectional"/>
+        <pin num="8" name="VCC" type="power_in"/>
+        <pin num="9" name="CS0" type="input"/>
+        <pin num="10" name="MISO" type="bidirectional"/>
+        <pin num="11" name="GPIO9" type="bidirectional"/>
+        <pin num="12" name="GPIO10" type="bidirectional"/>
+        <pin num="13" name="MOSI" type="bidirectional"/>
+        <pin num="14" name="SCLK" type="bidirectional"/>
+        <pin num="15" name="GND" type="power_in"/>
+        <pin num="16" name="GPIO15" type="bidirectional"/>
+        <pin num="17" name="GPIO2" type="bidirectional"/>
+        <pin num="18" name="GPIO0" type="bidirectional"/>
+        <pin num="19" name="GPIO4" type="bidirectional"/>
+        <pin num="20" name="GPIO5" type="bidirectional"/>
+        <pin num="21" name="GPIO3/RXD" type="bidirectional"/>
+        <pin num="22" name="GPIO1/TXD" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="Regulator_Linear" part="AMS1117CD-3.3">
+      <description>1A Low Dropout regulator, positive, 3.3V fixed output, TO-252</description>
+      <docs>http://www.advanced-monolithic.com/pdf/ds1117.pdf</docs>
+      <footprints>
+        <fp>TO?252*TabPin2*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">AMS1117CD-3.3</field>
+        <field name="Footprint">Package_TO_SOT_SMD:TO-252-3_TabPin2</field>
+        <field name="Datasheet">http://www.advanced-monolithic.com/pdf/ds1117.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="power_in"/>
+        <pin num="2" name="VO" type="power_out"/>
+        <pin num="3" name="VI" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="TPS54331DDAR" part="TPS54331DDAR">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">TPS54331DDAR</field>
+        <field name="Footprint">CONV_TPS54331DDAR</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+        <field name="PARTREV">F</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">1.70 mm</field>
+        <field name="MANUFACTURER">Texas Instruments</field>
+      </fields>
+      <pins>
+        <pin num="1" name="BOOT" type="output"/>
+        <pin num="2" name="VIN" type="power_in"/>
+        <pin num="3" name="EN" type="input"/>
+        <pin num="4" name="SS" type="input"/>
+        <pin num="5" name="VSENSE" type="input"/>
+        <pin num="6" name="COMP" type="output"/>
+        <pin num="7" name="GND" type="power_in"/>
+        <pin num="8" name="PH" type="output"/>
+        <pin num="9" name="POWERPAD" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Transistor_FET" part="AO3401A">
+      <description>-4.0A Id, -30V Vds, P-Channel MOSFET, SOT-23</description>
+      <docs>http://www.aosmd.com/pdfs/datasheet/AO3401A.pdf</docs>
+      <footprints>
+        <fp>SOT?23*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">AO3401A</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23</field>
+        <field name="Datasheet">http://www.aosmd.com/pdfs/datasheet/AO3401A.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="G" type="input"/>
+        <pin num="2" name="S" type="passive"/>
+        <pin num="3" name="D" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Connector.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="Diode">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Diode.kicad_sym</uri>
+    </library>
+    <library logical="Jumper">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Jumper.kicad_sym</uri>
+    </library>
+    <library logical="Logic_LevelTranslator">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Logic_LevelTranslator.kicad_sym</uri>
+    </library>
+    <library logical="Mechanical">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Mechanical.kicad_sym</uri>
+    </library>
+    <library logical="RF_Module">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/RF_Module.kicad_sym</uri>
+    </library>
+    <library logical="Regulator_Linear">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Regulator_Linear.kicad_sym</uri>
+    </library>
+    <library logical="TPS54331DDAR">
+      <uri>C:/Users/fabia/GitHub/KiCad_Librarys/TPS54331DDAR/TPS54331DDAR.lib</uri>
+    </library>
+    <library logical="Transistor_FET">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Transistor_FET.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+3V3">
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="J9" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="JP4" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="R10" pin="2" pintype="passive"/>
+      <node ref="R12" pin="2" pintype="passive"/>
+      <node ref="R13" pin="2" pintype="passive"/>
+      <node ref="R14" pin="2" pintype="passive"/>
+      <node ref="R16" pin="2" pintype="passive"/>
+      <node ref="R18" pin="2" pintype="passive"/>
+      <node ref="U1" pin="8" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U3" pin="3" pinfunction="VCCA" pintype="power_in"/>
+      <node ref="U3" pin="6" pinfunction="OE" pintype="input"/>
+      <node ref="U4" pin="3" pinfunction="VCCA" pintype="power_in"/>
+      <node ref="U4" pin="6" pinfunction="OE" pintype="input"/>
+      <node ref="U6" pin="2" pinfunction="VO" pintype="power_out"/>
+    </net>
+    <net code="2" name="+5V">
+      <node ref="C13" pin="1" pintype="passive"/>
+      <node ref="C14" pin="1" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J5" pin="1" pinfunction="VBUS" pintype="power_out"/>
+      <node ref="J7" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J8" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="JP1" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="JP2" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="L1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="U3" pin="7" pinfunction="VCCB" pintype="power_in"/>
+      <node ref="U4" pin="7" pinfunction="VCCB" pintype="power_in"/>
+      <node ref="U6" pin="3" pinfunction="VI" pintype="power_in"/>
+    </net>
+    <net code="3" name="/Q1_Drain">
+      <node ref="J3" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="Q1" pin="3" pinfunction="D" pintype="passive"/>
+    </net>
+    <net code="4" name="/Q2_Drain">
+      <node ref="J4" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="Q2" pin="3" pinfunction="D" pintype="passive"/>
+    </net>
+    <net code="5" name="/TPS_PH">
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="L1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U2" pin="8" pinfunction="PH" pintype="output"/>
+    </net>
+    <net code="6" name="ADC">
+      <node ref="JP5" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+    </net>
+    <net code="7" name="EN">
+      <node ref="R12" pin="1" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="EN" pintype="input"/>
+    </net>
+    <net code="8" name="GND">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="C12" pin="1" pintype="passive"/>
+      <node ref="C13" pin="2" pintype="passive"/>
+      <node ref="C14" pin="2" pintype="passive"/>
+      <node ref="C15" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J2" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J5" pin="5" pinfunction="GND" pintype="power_out"/>
+      <node ref="J6" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J7" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J8" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J9" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="JP3" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="Q1" pin="2" pinfunction="S" pintype="passive"/>
+      <node ref="Q2" pin="2" pinfunction="S" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="R10" pin="1" pintype="passive"/>
+      <node ref="R11" pin="2" pintype="passive"/>
+      <node ref="R15" pin="1" pintype="passive"/>
+      <node ref="R17" pin="1" pintype="passive"/>
+      <node ref="R19" pin="2" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="U1" pin="15" pinfunction="GND" pintype="power_in"/>
+      <node ref="U2" pin="7" pinfunction="GND" pintype="power_in"/>
+      <node ref="U2" pin="9" pinfunction="POWERPAD" pintype="power_in"/>
+      <node ref="U3" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U4" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U6" pin="1" pinfunction="GND" pintype="power_in"/>
+    </net>
+    <net code="9" name="GND1">
+      <node ref="C15" pin="1" pintype="passive"/>
+      <node ref="J5" pin="6" pinfunction="Shield" pintype="passive"/>
+      <node ref="R19" pin="1" pintype="passive"/>
+    </net>
+    <net code="10" name="GPIO_0">
+      <node ref="JP3" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="R16" pin="1" pintype="passive"/>
+      <node ref="U1" pin="18" pinfunction="GPIO0" pintype="bidirectional"/>
+      <node ref="U4" pin="4" pinfunction="A2" pintype="bidirectional"/>
+    </net>
+    <net code="11" name="GPIO_2">
+      <node ref="R14" pin="1" pintype="passive"/>
+      <node ref="U1" pin="17" pinfunction="GPIO2" pintype="bidirectional"/>
+    </net>
+    <net code="12" name="GPIO_4">
+      <node ref="U1" pin="19" pinfunction="GPIO4" pintype="bidirectional"/>
+      <node ref="U3" pin="5" pinfunction="A1" pintype="bidirectional"/>
+    </net>
+    <net code="13" name="GPIO_5">
+      <node ref="U1" pin="20" pinfunction="GPIO5" pintype="bidirectional"/>
+      <node ref="U3" pin="4" pinfunction="A2" pintype="bidirectional"/>
+    </net>
+    <net code="14" name="GPIO_12">
+      <node ref="Q1" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="R15" pin="2" pintype="passive"/>
+      <node ref="U1" pin="6" pinfunction="GPIO12" pintype="bidirectional"/>
+    </net>
+    <net code="15" name="GPIO_13">
+      <node ref="Q2" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="R17" pin="2" pintype="passive"/>
+      <node ref="U1" pin="7" pinfunction="GPIO13" pintype="bidirectional"/>
+    </net>
+    <net code="16" name="GPIO_14">
+      <node ref="JP5" pin="3" pinfunction="B" pintype="passive"/>
+      <node ref="R18" pin="1" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="GPIO14" pintype="bidirectional"/>
+    </net>
+    <net code="17" name="GPIO_15">
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="U1" pin="16" pinfunction="GPIO15" pintype="bidirectional"/>
+    </net>
+    <net code="18" name="MOSFET_VOLTAGE">
+      <node ref="J3" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J4" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="JP4" pin="2" pinfunction="C" pintype="input"/>
+    </net>
+    <net code="19" name="Net-(C3-Pad2)">
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="U2" pin="4" pinfunction="SS" pintype="input"/>
+    </net>
+    <net code="20" name="Net-(C4-Pad1)">
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="U2" pin="1" pinfunction="BOOT" pintype="output"/>
+    </net>
+    <net code="21" name="Net-(C11-Pad2)">
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="U2" pin="6" pinfunction="COMP" pintype="output"/>
+    </net>
+    <net code="22" name="Net-(C12-Pad2)">
+      <node ref="C12" pin="2" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+    </net>
+    <net code="23" name="Net-(J6-Pad1)">
+      <node ref="J6" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="JP5" pin="2" pinfunction="C" pintype="input"/>
+    </net>
+    <net code="24" name="Net-(JP2-Pad2)">
+      <node ref="JP2" pin="2" pinfunction="C" pintype="input"/>
+      <node ref="JP4" pin="3" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="25" name="Net-(R3-Pad2)">
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="U2" pin="3" pinfunction="EN" pintype="input"/>
+    </net>
+    <net code="26" name="Net-(R7-Pad1)">
+      <node ref="R7" pin="1" pintype="passive"/>
+      <node ref="U3" pin="8" pinfunction="B1" pintype="bidirectional"/>
+    </net>
+    <net code="27" name="Net-(R8-Pad1)">
+      <node ref="R8" pin="1" pintype="passive"/>
+      <node ref="U3" pin="1" pinfunction="B2" pintype="bidirectional"/>
+    </net>
+    <net code="28" name="Net-(R9-Pad1)">
+      <node ref="R9" pin="1" pintype="passive"/>
+      <node ref="U4" pin="1" pinfunction="B2" pintype="bidirectional"/>
+    </net>
+    <net code="29" name="Net-(R11-Pad1)">
+      <node ref="R11" pin="1" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="ADC" pintype="input"/>
+    </net>
+    <net code="30" name="RST">
+      <node ref="R13" pin="1" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="~{RST}" pintype="input"/>
+    </net>
+    <net code="31" name="RX">
+      <node ref="J9" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U1" pin="21" pinfunction="GPIO3/RXD" pintype="bidirectional"/>
+    </net>
+    <net code="32" name="TPS_VSENSE">
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="U2" pin="5" pinfunction="VSENSE" pintype="input"/>
+    </net>
+    <net code="33" name="TX">
+      <node ref="J9" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U1" pin="22" pinfunction="GPIO1/TXD" pintype="bidirectional"/>
+    </net>
+    <net code="34" name="VIN">
+      <node ref="F1" pin="1" pintype="passive"/>
+      <node ref="J1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="JP1" pin="1" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="35" name="VIN_F">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="F1" pin="2" pintype="passive"/>
+      <node ref="JP2" pin="3" pinfunction="B" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="U2" pin="2" pinfunction="VIN" pintype="power_in"/>
+    </net>
+    <net code="36" name="WS2812B_GPIO_0">
+      <node ref="J2" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+    </net>
+    <net code="37" name="WS2812B_GPIO_4">
+      <node ref="J8" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+    </net>
+    <net code="38" name="WS2812B_GPIO_5">
+      <node ref="J7" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="R8" pin="2" pintype="passive"/>
+    </net>
+    <net code="39" name="unconnected-(J5-Pad2)">
+      <node ref="J5" pin="2" pinfunction="D-" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="40" name="unconnected-(J5-Pad3)">
+      <node ref="J5" pin="3" pinfunction="D+" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="41" name="unconnected-(J5-Pad4)">
+      <node ref="J5" pin="4" pinfunction="ID" pintype="passive+no_connect"/>
+    </net>
+    <net code="42" name="unconnected-(U1-Pad4)">
+      <node ref="U1" pin="4" pinfunction="GPIO16" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="43" name="unconnected-(U1-Pad9)">
+      <node ref="U1" pin="9" pinfunction="CS0" pintype="input+no_connect"/>
+    </net>
+    <net code="44" name="unconnected-(U1-Pad10)">
+      <node ref="U1" pin="10" pinfunction="MISO" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="45" name="unconnected-(U1-Pad11)">
+      <node ref="U1" pin="11" pinfunction="GPIO9" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="46" name="unconnected-(U1-Pad12)">
+      <node ref="U1" pin="12" pinfunction="GPIO10" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="47" name="unconnected-(U1-Pad13)">
+      <node ref="U1" pin="13" pinfunction="MOSI" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="48" name="unconnected-(U1-Pad14)">
+      <node ref="U1" pin="14" pinfunction="SCLK" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="49" name="unconnected-(U4-Pad5)">
+      <node ref="U4" pin="5" pinfunction="A1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="50" name="unconnected-(U4-Pad8)">
+      <node ref="U4" pin="8" pinfunction="B1" pintype="bidirectional+no_connect"/>
+    </net>
+  </nets>
+</export>
